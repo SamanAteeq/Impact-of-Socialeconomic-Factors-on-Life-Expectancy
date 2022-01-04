@@ -5,7 +5,8 @@ The dataset used in this project has been taken from Kaggle which was collected 
 
 We focused on performing the statistical analysis for evaluating the relationship between immunization coverage and life expectancy. Also, we analyzed that the status of country (Developing and Developed) is related to the life expectancy; The mean age of individuals residing in developed countries is higher than that of developed countries.
 
-Initially we set target variable as Status of Country and performed **Logistic Regression**, later we changed the project objective, set life expectancy as target variable, and performed decision tree regression & linear regression both. Though the accuracy of both the models were almost same.
+Initially we set target variable as Status of Country and performed **Logistic Regression**, later we changed the project objective, set life expectancy as target variable, and performed **Decision Tree regression** & **Linear regression** both. Though the accuracy of both the models were almost same.
+Libraries Used: **Pandas, Scikit, Matplotlib, Seaborn**
 
 Please go through the Final Project Report for additional details.
 
